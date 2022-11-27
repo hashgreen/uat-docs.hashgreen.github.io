@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[4209],{8163:function(e){e.exports=JSON.parse('{"permalink":"/uat-hashgreen.github.io/blog/tags/update/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":18,"previousPage":"/uat-hashgreen.github.io/blog/tags/update","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

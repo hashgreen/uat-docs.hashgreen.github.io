@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[1121],{116:function(e){e.exports=JSON.parse('{"label":"wallet integration","permalink":"/uat-hashgreen.github.io/blog/tags/wallet-integration","allTagsPath":"/uat-hashgreen.github.io/blog/tags","count":2}')}}]);

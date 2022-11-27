@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[4059],{199:function(e){e.exports=JSON.parse('{"permalink":"/uat-hashgreen.github.io/blog/tags/trivia","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

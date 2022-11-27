@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[8083],{9560:function(e){e.exports=JSON.parse('{"permalink":"/uat-hashgreen.github.io/blog/tags/cryptocurrency/page/3","page":3,"postsPerPage":10,"totalPages":3,"totalCount":21,"previousPage":"/uat-hashgreen.github.io/blog/tags/cryptocurrency/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

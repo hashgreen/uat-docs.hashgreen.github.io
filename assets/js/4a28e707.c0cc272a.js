@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[1829],{6611:function(e){e.exports=JSON.parse('{"label":"cryptocurrency","permalink":"/uat-hashgreen.github.io/blog/tags/cryptocurrency","allTagsPath":"/uat-hashgreen.github.io/blog/tags","count":21}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[4173],{3190:function(e){e.exports=JSON.parse('{"label":"i18n","permalink":"/uat-hashgreen.github.io/blog/tags/i-18-n","allTagsPath":"/uat-hashgreen.github.io/blog/tags","count":2}')}}]);

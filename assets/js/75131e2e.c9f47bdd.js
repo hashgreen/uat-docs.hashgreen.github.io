@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[3616],{4401:function(e){e.exports=JSON.parse('{"label":"computer system design","permalink":"/uat-hashgreen.github.io/blog/tags/computer-system-design","allTagsPath":"/uat-hashgreen.github.io/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[3740],{145:function(e){e.exports=JSON.parse('{"label":"tech blog","permalink":"/uat-hashgreen.github.io/blog/tags/tech-blog","allTagsPath":"/uat-hashgreen.github.io/blog/tags","count":1}')}}]);

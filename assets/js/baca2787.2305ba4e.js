@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[2601],{6084:function(e){e.exports=JSON.parse('{"permalink":"/uat-hashgreen.github.io/blog/tags/market-statistics","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

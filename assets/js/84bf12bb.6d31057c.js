@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[5825],{9277:function(e){e.exports=JSON.parse('{"label":"landing page","permalink":"/blog/tags/landing-page","allTagsPath":"/blog/tags","count":1}')}}]);
