@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[5804],{2986:function(e){e.exports=JSON.parse('{"label":"landing page","permalink":"/uat-hashgreen.github.io/blog/tags/landing-page","allTagsPath":"/uat-hashgreen.github.io/blog/tags","count":1}')}}]);

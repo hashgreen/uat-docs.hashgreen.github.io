@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[390],{6188:function(e){e.exports=JSON.parse('{"label":"rwd","permalink":"/uat-hashgreen.github.io/blog/tags/rwd","allTagsPath":"/uat-hashgreen.github.io/blog/tags","count":2}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[8871],{8492:function(e){e.exports=JSON.parse('{"label":"swap","permalink":"/uat-hashgreen.github.io/blog/tags/swap","allTagsPath":"/uat-hashgreen.github.io/blog/tags","count":1}')}}]);

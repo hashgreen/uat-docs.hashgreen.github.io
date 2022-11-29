@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[6274],{8402:function(t){t.exports=JSON.parse('{"label":"market statistics","permalink":"/uat-hashgreen.github.io/blog/tags/market-statistics","allTagsPath":"/uat-hashgreen.github.io/blog/tags","count":3}')}}]);

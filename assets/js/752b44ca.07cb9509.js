@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[601],{6644:function(e){e.exports=JSON.parse('{"label":"chia","permalink":"/uat-hashgreen.github.io/blog/tags/chia","allTagsPath":"/uat-hashgreen.github.io/blog/tags","count":21}')}}]);

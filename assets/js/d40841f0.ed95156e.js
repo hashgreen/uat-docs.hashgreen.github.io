@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[7329],{2218:function(e){e.exports=JSON.parse('{"label":"amm","permalink":"/uat-hashgreen.github.io/blog/tags/amm","allTagsPath":"/uat-hashgreen.github.io/blog/tags","count":9}')}}]);
